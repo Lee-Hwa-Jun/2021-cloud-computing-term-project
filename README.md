@@ -141,8 +141,14 @@
 Create By 박건형, 황현진, 이화준    
 Hallym Univ - Computer science      
 2021-12     
-
+***
 챗봇 정보 : https://pf.kakao.com/_EwuVb    
 챗봇 추가 : http://pf.kakao.com/_EwuVb/chat    
 Youtube : https://youtu.be/-rUOR16cnLo     
+***
+Instructions for use
+* Kakao I Openbuilder https://i.kakao.com/
+* PPT template https://slidesgo.com/slidesgo-school
+* AWS education https://docs.aws.amazon.com/ko_kr/index.html
+* https://slidesgo.com/faqs and https://slidesgo.comslidesgo-school
 
