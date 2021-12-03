@@ -24,8 +24,8 @@
 > 1. 카카오톡 챗봇 추가 (https://pf.kakao.com/_EwuVb)
 > 2. [관리] 메뉴를 통해 [room_off] [room_on] [bath_off] [bath_on] 버튼으로 명령
 > 3. 전등 스위치 제어 서보가 동작    
-> ![kakao_cap](https://user-images.githubusercontent.com/13642330/144627087-7d790b34-6fda-4234-aaea-f41ff7747e40.jpg)
-> [![구현 예시](https://user-images.githubusercontent.com/13642330/144577619-07373802-3ca4-4a4e-873d-f22c7b4dd2f8.jpg)](https://youtu.be/-rUOR16cnLo)
+> ( 아래 사진을 클릭하여 유튜브로 시청해보세요 )
+> [![그림3](https://user-images.githubusercontent.com/13642330/144628157-900b3104-cff2-4e6a-b116-64c235200d2b.png)](https://youtu.be/-rUOR16cnLo)
 
 
 > ## 개발 결과물의 필요성 및 활용방안     
