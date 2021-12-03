@@ -25,9 +25,15 @@
 3. 전등 스위치 제어 서보가 동작    
 ![구현 예시](https://user-images.githubusercontent.com/13642330/144577619-07373802-3ca4-4a4e-873d-f22c7b4dd2f8.jpg)
 ## 개발 결과물의 필요성 및 활용방안
+
+
 ***
 
-챗봇 정보 : https://pf.kakao.com/_EwuVb
-챗봇 추가 : http://pf.kakao.com/_EwuVb/chat
-Youtube : https://youtu.be/-rUOR16cnLo
+Create By 박건형, 황현진, 이화준    
+Hallym Univ - Computer science      
+2021-12     
+
+챗봇 정보 : https://pf.kakao.com/_EwuVb    
+챗봇 추가 : http://pf.kakao.com/_EwuVb/chat    
+Youtube : https://youtu.be/-rUOR16cnLo     
 
