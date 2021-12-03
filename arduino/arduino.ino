@@ -24,9 +24,6 @@ void loop() {
     else if(get_input=='4'){
       off_servo(30);//화장실off
     }
-    else if(get_input=='5'){
-      Serial.println(String(temp)+','+String(humi));
-    }
   delay(100);
   }
 }
